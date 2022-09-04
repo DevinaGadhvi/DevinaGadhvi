@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Devina Gadhvi
 
-•	I am a Developer.
-•	I have 7+ years of experience designing, developing, and managing complex web applications and internal frameworks.
-•	Proficient in Apex, LWC, REST APIs, Aura.
-•	Experienced in decision-making areas beyond programming such as solution design, product development, technical hiring, etc.
-•	I learn and build everything that excites me from painting to building scalable applications.
+-	I am a Developer.
+-	I have 7+ years of experience designing, developing, and managing complex web applications and internal frameworks.
+-	Proficient in Apex, LWC, REST APIs, Aura.
+-	Experienced in decision-making areas beyond programming such as solution design, product development, technical hiring, etc.
+-	I learn and build everything that excites me from painting to building scalable applications.
 
 - 👀 I’m interested in ... development and coding
 - 🔭 I’m currently working on Salesforce, LWC, Flows, REST Integration
